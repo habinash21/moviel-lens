@@ -9,3 +9,8 @@ python3 -m venv venv #to create virtual env
 Connect your mongodb properly
 
 To run : node app.js 
+
+And open : http://localhost:4000
+
+
+
